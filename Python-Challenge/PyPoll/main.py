@@ -3,8 +3,6 @@ import os
 import csv
 import operator
 
-#from collections import OrderedDict
-#from operator import itemgetter
 
 file_input = "election_data.csv"
 
